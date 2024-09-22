@@ -30,4 +30,4 @@ $ toefl | cowsay
 
 ```
 
-I put this command in my shell startup script, which making me learning and reviewing TOEFL words all the day. :smile:
+
